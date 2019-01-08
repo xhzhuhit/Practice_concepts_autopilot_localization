@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zhuxiaohui/test_everything/test_singleton/include/global.config.hpp
+iostream
+-
+string
+-
+vector
+-
+
+/home/zhuxiaohui/test_everything/test_singleton/src/global_config.cpp
+../include/global.config.hpp
+/home/zhuxiaohui/test_everything/test_singleton/include/global.config.hpp
+
+/home/zhuxiaohui/test_everything/test_singleton/src/main.cpp
+../include/global.config.hpp
+/home/zhuxiaohui/test_everything/test_singleton/include/global.config.hpp
+

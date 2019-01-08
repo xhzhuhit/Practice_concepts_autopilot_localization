@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/use_ceres.dir/src/sample_ceres.cpp.o  -o use_ceres -rdynamic /usr/local/lib/libceres.a -lglog -lspqr -ltbb -ltbbmalloc -lcholmod -lccolamd -lcamd -lcolamd -lamd -llapack -lf77blas -latlas -lsuitesparseconfig -lrt -llapack -lf77blas -latlas -lsuitesparseconfig -lrt -lgomp -lpthread 

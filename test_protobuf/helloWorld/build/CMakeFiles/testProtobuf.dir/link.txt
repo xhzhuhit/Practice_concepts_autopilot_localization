@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/testProtobuf.dir/proto/hello.pb.cc.o CMakeFiles/testProtobuf.dir/src/testProtobuf.cpp.o  -o testProtobuf -rdynamic -lprotobuf -lpthread 
